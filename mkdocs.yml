@@ -30,6 +30,7 @@ theme:
     - content.code.annotate
     - content.code.copy
     - content.tooltips
+    - content.action.edit
     - navigation.indexes
     - navigation.tabs
     - navigation.instant
@@ -86,7 +87,11 @@ plugins:
   swagger-ui-tag: # enable swagger-ui-tag plugin
 
   git-revision-date-localized:
-    enable_creation_date: true
+    enable_creation_date: false
+
+  git-committers:
+    repository: aikdocs/michaelyao
+    branch: main
 
 # Customization Javascript
 extra_javascript:
