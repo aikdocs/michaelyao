@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # From Community Novice to CNCF Ambassador
 
 This article shares a personal journey of growth within the CNCF open-source community, featuring a protagonist named [Michael Yao](https://github.com/windsonsea).

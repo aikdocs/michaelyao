@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # 从社区小白到 CNCF 大使
 
 本文不讲技术，只是浅述一段在 CNCF 开源社区成长的故事，这篇故事的主人公叫 Michael Yao。
