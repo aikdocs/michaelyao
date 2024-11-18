@@ -1,0 +1,22 @@
+# Page tree
+nav:
+  - 首页: index.md
+  - 文章: profile/index.md
+
+# i18n
+plugins:
+    i18n:
+        docs_structure: folder
+        reconfigure_material: true
+        reconfigure_search: true
+        languages:
+            - locale: zh
+              name: 中文
+              default: true
+              build: true
+            - locale: en
+              name: English
+              build: true
+              nav_translations:
+                首页: Home
+                文章: Blogs
