@@ -31,6 +31,7 @@ theme:
     - content.code.copy
     - content.tooltips
     - content.action.edit
+    - content.action.view
     - navigation.indexes
     - navigation.tabs
     - navigation.instant
@@ -44,6 +45,7 @@ theme:
     - search.share
     - toc.follow
     - navigation.path
+    - navigation.footer
     # - toc.integrate
 
   palette:
