@@ -85,6 +85,9 @@ plugins:
   
   swagger-ui-tag: # enable swagger-ui-tag plugin
 
+  git-revision-date-localized:
+    enable_creation_date: true
+
 # Customization Javascript
 extra_javascript:
   - stylesheets/zoom_image.js
