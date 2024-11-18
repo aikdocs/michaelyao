@@ -4,7 +4,7 @@ INHERIT: navigation.yml
 
 # Project information
 site_name: Michael Yao's Website
-site_url: aikdocs.github.io/michaelyao/
+site_url: https://aikdocs.github.io/michaelyao/
 site_author: michael.yao
 site_description: >-
   This is a website made by Michael Yao
