@@ -82,8 +82,8 @@ plugins:
   
   search:
     lang:
-      en
       zh
+      en
 
   swagger-ui-tag: # enable swagger-ui-tag plugin
 
